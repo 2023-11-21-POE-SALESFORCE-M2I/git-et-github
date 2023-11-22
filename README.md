@@ -30,6 +30,8 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
 - Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
 
 ## Contributions
