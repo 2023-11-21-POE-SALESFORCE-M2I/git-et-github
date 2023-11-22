@@ -30,12 +30,9 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
-
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
 - Thibault, [Thibault Debril](https://github.com/Zoryger)
-
 - Steve, [UserGitGithub] (https://github.com/UserGitGithub)
-
 - Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
 - Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
 - Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
@@ -44,7 +41,7 @@ Il est organisé comme suit :
 - Mathys VANCAEMELBECKE [@maatyss](https://github.com/maatyss)
 - Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
 - Sébastien Legrand, [Seb59001](https://github.com/Seb59001)
-
+- Antoine, [Antoine-gft](https://github.com/GFT972/)
 - Vincent Scicluna, [VincSci](https://github.com/VincSci)
 
 ## Contributions
