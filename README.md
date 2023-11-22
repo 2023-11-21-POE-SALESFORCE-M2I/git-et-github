@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Sébastien Legrand, [Seb59001](https://github.com/Seb59001)
 
 ## Contributions
 
