@@ -31,6 +31,7 @@ Il est organisé comme suit :
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+- Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
 
 ## Contributions
 
