@@ -44,6 +44,8 @@ Il est organisé comme suit :
 - Antoine, [Antoine-gft](https://github.com/GFT972/)
 - Vincent Scicluna, [VincSci](https://github.com/VincSci)
 - Falcone, [@Thibale](https://github.com/Thibale)
+- Emilie BALSEN, [GUnm-prog](https://github.com/Gunm-prog)
+- Anna, [Anna Sargsyan](AnnaSarg)
 
 ## Contributions
 
