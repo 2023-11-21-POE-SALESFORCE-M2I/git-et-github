@@ -41,6 +41,8 @@ Il est organisé comme suit :
 - Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
 - Sébastien Legrand, [Seb59001](https://github.com/Seb59001)
 
+- Vincent Scicluna, [VincSci](https://github.com/VincSci)
+
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
