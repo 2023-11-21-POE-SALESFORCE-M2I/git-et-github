@@ -30,8 +30,8 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Emilie BALSEN, [GUnm-prog]([URL profil GitHub](https://github.com/Gunm-prog))
-
+- Emilie BALSEN, [GUnm-prog](https://github.com/Gunm-prog)
+    
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
