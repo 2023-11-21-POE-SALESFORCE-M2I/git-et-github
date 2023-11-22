@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Illyes Zerga, [Elfamozoo](https://github.com/Elfamozoo)
 
 ## Contributions
 
