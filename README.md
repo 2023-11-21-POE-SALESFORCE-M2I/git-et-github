@@ -32,6 +32,8 @@ Il est organisé comme suit :
 - Noms, [compte GitHub](URL profil GitHub)
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
 
+- Vincent Scicluna, [VincSci](https://github.com/VincSci)
+
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
