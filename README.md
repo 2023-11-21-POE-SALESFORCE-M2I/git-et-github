@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Emilie BALSEN, [GUnm-prog]([URL profil GitHub](https://github.com/Gunm-prog))
 
 ## Contributions
 
