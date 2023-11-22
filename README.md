@@ -31,6 +31,8 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Mathys VANCAEMELBECKE [@maatyss](https://github.com/maatyss)
+
 
 ## Contributions
 
