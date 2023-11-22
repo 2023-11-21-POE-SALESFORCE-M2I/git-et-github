@@ -27,7 +27,6 @@ Il est organisé comme suit :
 ### Formateur
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
-
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
