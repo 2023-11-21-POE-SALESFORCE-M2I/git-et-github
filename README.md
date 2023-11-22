@@ -34,6 +34,8 @@ Il est organisé comme suit :
 - Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
 - Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
 - Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
+- kamel, [kameldem](github.com/kameldem)
+
 
 ## Contributions
 
