@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- kamel, [kameldem](github.com/kameldem)
 
 ## Contributions
 
