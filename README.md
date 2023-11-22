@@ -32,6 +32,7 @@ Il est organisé comme suit :
 - Noms, [compte GitHub](URL profil GitHub)
 
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Thibault, [Thibault Debril](https://github.com/Zoryger)
 
 - Steve, [UserGitGithub] (https://github.com/UserGitGithub)
 
