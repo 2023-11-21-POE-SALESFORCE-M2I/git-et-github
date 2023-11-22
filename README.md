@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Saudemont, [Sylvestre-s](https://github.com/Sylvestre-s)
 
 ## Contributions
 
