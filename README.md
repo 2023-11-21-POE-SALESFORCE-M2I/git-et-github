@@ -36,8 +36,7 @@ Il est organisé comme suit :
 - Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
 - kamel, [kameldem](github.com/kameldem)
 - Saudemont, [Sylvestre-s](https://github.com/Sylvestre-s)
-
-
+- Mathys VANCAEMELBECKE [@maatyss](https://github.com/maatyss)
 - Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
 
 ## Contributions
