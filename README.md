@@ -35,3 +35,4 @@ Il est organisé comme suit :
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
+Falcone, [@Thibale](https://github.com/Thibale)
