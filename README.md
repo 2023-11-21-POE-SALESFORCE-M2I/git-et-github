@@ -31,6 +31,7 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Antoine, [Antoine-gft](https://github.com/GFT972/)
 
 ## Contributions
 
