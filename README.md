@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Illyes Zerga, [Elfamozoo](https://github.com/Elfamozoo)
+- Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
 
 ## Contributions
 
