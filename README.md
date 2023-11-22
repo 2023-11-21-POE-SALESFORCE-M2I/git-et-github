@@ -30,7 +30,7 @@ Il est organisé comme suit :
 
 ### Apprentis
 
-- Noms, [compte GitHub](URL profil GitHub)
+- Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
 
 ## Contributions
 
