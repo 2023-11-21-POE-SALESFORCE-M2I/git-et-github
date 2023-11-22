@@ -38,6 +38,8 @@ Il est organisé comme suit :
 - Saudemont, [Sylvestre-s](https://github.com/Sylvestre-s)
 
 
+- Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
+
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
