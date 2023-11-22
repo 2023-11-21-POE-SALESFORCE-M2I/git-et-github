@@ -27,10 +27,18 @@ Il est organisé comme suit :
 ### Formateur
 
 - Nehemie Balukidi, [@olfredos6](https://github.com/Olfredos6)
-
 ### Apprentis
 
 - Noms, [compte GitHub](URL profil GitHub)
+
+- Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
+- Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
+- Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
+- kamel, [kameldem](github.com/kameldem)
+- Saudemont, [Sylvestre-s](https://github.com/Sylvestre-s)
+- Mathys VANCAEMELBECKE [@maatyss](https://github.com/maatyss)
+- Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
 - Sébastien Legrand, [Seb59001](https://github.com/Seb59001)
 
 ## Contributions
