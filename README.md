@@ -43,6 +43,7 @@ Il est organisé comme suit :
 - Sébastien Legrand, [Seb59001](https://github.com/Seb59001)
 - Antoine, [Antoine-gft](https://github.com/GFT972/)
 - Vincent Scicluna, [VincSci](https://github.com/VincSci)
+- Emilie BALSEN, [GUnm-prog](https://github.com/Gunm-prog)
 
 ## Contributions
 
