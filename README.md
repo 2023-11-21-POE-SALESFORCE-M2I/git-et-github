@@ -32,6 +32,8 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 
+- Romain Trochu, [Rom-dev1] https://github.com/Rom-dev1
+
 ## Contributions
 
 Le document [CONTRIBUTING.md](./CONTRIBUTING.md) contient les informations sur comment contribuer sur ce projet.
