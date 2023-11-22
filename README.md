@@ -31,6 +31,9 @@ Il est organisé comme suit :
 
 - Noms, [compte GitHub](URL profil GitHub)
 - Alfred, [Alfred-ego](https://github.com/Olfredos6)
+- Illyes Zerga, [@Elfamozoo](https://github.com/Elfamozoo)
+- Bolzonella Guillaume, [@Temosare](https://github.com/Temosare)
+- Daffe Chadjou, [sadjo59/git-et-github](https://github.com/sadjo59/git-et-github)
 
 - Vincent Scicluna, [VincSci](https://github.com/VincSci)
 
